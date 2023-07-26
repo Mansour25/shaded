@@ -1,0 +1,1 @@
+class AppLinkApi{  static const String baseUrl = "http://extreme.cx/public/api";  //==========================================> Login  static const String LOGIN = "$baseUrl/login";  static const String REGISTER = "$baseUrl/register";  static const String LOGOUT = "$baseUrl/logout";  static const String UPDATELOCATION = "$baseUrl/updateLatLong";}
