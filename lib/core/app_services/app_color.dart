@@ -1,0 +1,1 @@
+import 'package:flutter/cupertino.dart';import 'package:flutter/material.dart';class AppColor{static Color appColor = const Color.fromRGBO(0, 210, 127, 1);}

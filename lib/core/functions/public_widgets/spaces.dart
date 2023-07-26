@@ -1,0 +1,1 @@
+import 'package:flutter/material.dart';import 'package:shaded/core/size_config/size_config.dart';Widget spaceW (double width){  return SizedBox(    width: SizeConfig.scaleWidth(width),  );}Widget spaceH (double height){  return SizedBox(    height: SizeConfig.scaleWidth(height),  );}
